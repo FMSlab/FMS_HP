@@ -1,0 +1,53 @@
+faculty:
+  - name: 薦田 亮介
+    role: 准教授
+    image: "/Materials-strength-website/images/members/test.png"
+
+students:
+  M2:
+    - name: 枝吉 怜奈
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 大塚 碧人
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 後藤 大知
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 田畑 佑梨
+      image: "/Materials-strength-website/images/members/test.png"
+
+  M1:
+    - name: 上堀内 俊哉
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 工藤 澪士
+      image: "/Materials-strength-website/images/members/Reishi Kudo.jpg"
+    - name: 松尾 陽太
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 村川 太一
+      image: "/Materials-strength-website/images/members/test.png"
+
+  B4:
+    - name: 菊池 隆介
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 菊池 涼亮
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 園田 光
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 高山 翔瑛
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 松永 和丸
+      image: "/Materials-strength-website/images/members/test.png"
+    - name: 松本なつみ
+      image: "/Materials-strength-website/images/members/test.png"
+
+  B3:
+    - name: 学生A
+      image: "/Materials-strength-website/images/members/test.png"
+
+alumni:
+  "就職先一覧":
+    - name: 三菱重工
+    - name: 三菱ケミカル
+    - name: 日本製鉄PME
+    - name: 日鉄エンジニアリング
+    - name: グローリー
+    - name: ミネベアアクセスソリューションズ
+
