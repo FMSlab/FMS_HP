@@ -13,8 +13,11 @@ title: "Materials Strength Laboratory"
 ---
 
 ## About Our Laboratory
+The Strength and Fracture Materials Laboratory was established in January 2023. Our research focuses on the evaluation of mechanical properties and the elucidation of the underlying mechanisms of materials, particularly metallic materials. Special attention is given to steel materials that support modern social infrastructure, and our research covers phenomena related to the reliability and safety of materials, including fatigue, fracture, and environmentally assisted degradation.
 
+Currently, our primary research topic is Hydrogen Embrittlement, a phenomenon in which the mechanical properties of materials deteriorate due to hydrogen. Hydrogen is expected to play a key role as a next-generation energy carrier toward the realization of a carbon-neutral society. However, exposure to hydrogen environments can cause strength degradation and fracture in metallic materials, making hydrogen embrittlement a critical issue for ensuring the safety of hydrogen-related equipment and infrastructure.
 
+In our laboratory, we investigate the mechanisms of hydrogen embrittlement from the perspectives of materials strength, fracture mechanics, materials science, and surface reaction science. We also promote research aimed at improving the safety and reducing the cost of hydrogen equipment and hydrogen transportation infrastructure.
 
 ---
 
