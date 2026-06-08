@@ -1,5 +1,5 @@
 # baseURL = 'http://localhost:1313/'
-baseURL = 'https://yota5555yota-lab.github.github.io/Materials-strength-website/'
+baseURL = 'https://FMSlab.github.github.io/FMS_HP/'
 
 title = '材料強度学研究室'
 
@@ -81,5 +81,5 @@ disableDefaultLanguageRedirect = false
 
 [params]
   # label = { text = "材料強度学研究室", icon = "/images/logo.png", iconHeight = 35 }
-  label = { text = "材料強度学研究室", icon = "/Materials-strength-website/images/logo.png", iconHeight = 35 }
+  label = { text = "材料強度学研究室", icon = "/FMS_HP/images/logo.png", iconHeight = 35 }
 
