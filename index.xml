@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>材料強度学研究室</title>
-    <link>https://FMSlab.github.io/FMS_HP/</link>
+    <link>https://yota5555yota-lab.github.github.io/Materials-strength-website/</link>
     <description>Recent content on 材料強度学研究室</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://FMSlab.github.io/FMS_HP/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yota5555yota-lab.github.github.io/Materials-strength-website/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
