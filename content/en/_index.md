@@ -3,10 +3,10 @@ title: "Materials Strength Laboratory"
 ---
 
 <div class="hero-slider">
-  <img src="/FMS_HP/images/slide1.png" class="slide active">
-  <img src="/FMS_HP/images/slide2.png" class="slide">
-  <img src="/FMS_HP/images/slide3.png" class="slide">
-  <img src="/FMS_HP/images/slide4.png" class="slide">
+  <img src="/FMS_HP/images/slide_1.png" class="slide active">
+  <img src="/FMS_HP/images/slide_2.png" class="slide">
+  <img src="/FMS_HP/images/slide_3.png" class="slide">
+  <img src="/FMS_HP/images/slide_4.png" class="slide">
 </div>
 
 
@@ -22,14 +22,6 @@ In our laboratory, we investigate the mechanisms of hydrogen embrittlement from 
 ---
 
 ## Contents
-
-### Mission
-
-Learn more about our research fields and activities
-
-[View Mission](./mission/)
-
----
 
 ### Members
 

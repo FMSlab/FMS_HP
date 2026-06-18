@@ -18,8 +18,8 @@ disableDefaultLanguageRedirect = false
     contentDir = "content/ja"
 
     [[languages.ja.menu.main]]
-      name = "研究室紹介"
-      url = "mission/"
+      name = "ホーム"
+      url = "ja/"
       weight = 1
 
     [[languages.ja.menu.main]]
@@ -50,8 +50,8 @@ disableDefaultLanguageRedirect = false
     contentDir = "content/en"
 
     [[languages.en.menu.main]]
-      name = "Mission"
-      url = "mission/"
+      name = "Home"
+      url = "en/"
       weight = 1
 
     [[languages.en.menu.main]]
