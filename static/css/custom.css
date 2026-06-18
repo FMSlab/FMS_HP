@@ -84,6 +84,6 @@ body::before {
     background-position: center;
     background-size: cover;
 
-    opacity: 0.08; /* 数値を調整 */
+    opacity: 0.12; /* 数値を調整 */
     z-index: -1;
 }
