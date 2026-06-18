@@ -12,29 +12,18 @@
 
 /* 教員 */
 .faculty-card img {
-  width: 50px;
-  height: 50px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border-radius: 0; /* 四角にする */
 }
 
 /* 学生 */
 .student-card img {
-  width: 35px;
-  height: 35px;
+  width: 70px;
+  height: 70px;
   object-fit: cover;
   border-radius: 0; /* 四角にする */
-}
-
-/* 名前 */
-.name {
-  position: static; /* 重ね表示を解除 */
-  display: block;
-  margin-top: 5px;
-  color: black;
-  font-size: 10px;
-  font-weight: bold;
-  transform: none;
 }
 
 /* 役職 */
