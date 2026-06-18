@@ -69,3 +69,21 @@
 .hero-slider img.active {
   opacity: 1;
 }
+
+body {
+    position: relative;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+
+    background-image: url('/FMS_HP/images/bg1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    opacity: 0.08; /* 数値を調整 */
+    z-index: -1;
+}
