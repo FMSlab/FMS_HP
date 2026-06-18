@@ -63,6 +63,7 @@
 {{- $stylesheet := (slice $license_css $core $extended) | resources.Concat "assets/css/stylesheet.css"  }}
 
 <link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
+<link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 
 {{- /* Search */}}
 {{- if (eq .Layout `search`) -}}
