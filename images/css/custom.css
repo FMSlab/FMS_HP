@@ -26,9 +26,25 @@
   border-radius: 0; /* 四角にする */
 }
 
+/* 名前 */
+.name {
+  position: static; /* 重ね表示を解除 */
+  display: block;
+  margin-top: 5px;
+  color: black;
+  font-size: 10px;
+  font-weight: bold;
+  transform: none;
+}
+
 /* 役職 */
 .role {
   font-size: 0.8em;
   color: gray;
   margin-top: 3px;
+}
+
+.faculty-card img,
+.student-card img {
+    border-radius: 0 !important;
 }
