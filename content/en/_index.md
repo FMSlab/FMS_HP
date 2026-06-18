@@ -6,7 +6,7 @@ title: "Materials Strength Laboratory"
   <img src="/FMS_HP/images/slide_1.png" class="slide active">
   <img src="/FMS_HP/images/slide_2.png" class="slide">
   <img src="/FMS_HP/images/slide_3.png" class="slide">
-  <img src="/FMS_HP/images/slide_4.png" class="slide">
+  <img src="/FMS_HP/images/slide_5.png" class="slide">
 </div>
 
 
