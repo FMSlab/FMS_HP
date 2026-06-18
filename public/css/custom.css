@@ -48,3 +48,17 @@
 .student-card img {
     border-radius: 0 !important;
 }
+
+.hero-slider {
+  position: relative;
+  width: 100%;
+}
+
+.hero-slider img {
+  display: none;
+  width: 100%;
+}
+
+.hero-slider img.active {
+  display: block;
+}
