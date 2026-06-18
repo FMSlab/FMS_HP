@@ -87,3 +87,30 @@ body::before {
     opacity: 0.4; /* 数値を調整 */
     z-index: -1;
 }
+
+
+/* ヘッダー全体 */
+.header {
+    background-color: rgba(80, 80, 80, 0.9);
+    backdrop-filter: blur(5px);
+}
+
+/* サイト名 */
+.logo a {
+    color: white !important;
+}
+
+/* メニュー */
+#menu a {
+    color: white !important;
+}
+
+/* 言語切替 */
+.lang-switch a {
+    color: white !important;
+}
+
+.header {
+    background-color: rgba(60, 60, 60, 0.95);
+    border-bottom: 3px solid #1e5aa8;
+}
