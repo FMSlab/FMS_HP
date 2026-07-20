@@ -8,31 +8,31 @@ students:
     - name: 枝吉 怜奈
       image: "/FMS_HP/images/members/test.png"
     - name: 大塚 碧人
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/ootuka.jpg"
     - name: 後藤 大知
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/gotou.jpg"
     - name: 田畑 佑梨
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/tabata.jpg"
 
   M1:
     - name: 上堀内 俊哉
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/kamihori.jpg"
     - name: 工藤 澪士
       image: "/FMS_HP/images/members/Reishi Kudo.jpg"
     - name: 松尾 陽太
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/MatsuoYota.jpg"
     - name: 村川 太一
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/murakawa.jpg"
 
   B4:
     - name: 菊池 隆介
       image: "/FMS_HP/images/members/test.png"
     - name: 菊池 涼亮
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/kikutiryousuke.jpg"
     - name: 園田 光
       image: "/FMS_HP/images/members/test.png"
     - name: 高山 翔瑛
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/takayama.jpg"
     - name: 松永 和丸
       image: "/FMS_HP/images/members/test.png"
     - name: 松本なつみ
