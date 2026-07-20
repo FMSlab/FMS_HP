@@ -8,31 +8,31 @@ students:
     - name: Reina Edayoshi
       image: "/FMS_HP/images/members/test.png"
     - name: Aoto Ootska
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/ootuka.jpg"
     - name: Daichi Goto
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/gotou.jpg"
     - name: Yuri Tabata
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/tabata.jpg"
 
   M1:
     - name: Toshiya Kamihoriuchi
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/kamihori.jpg"
     - name: Reishi Kudo
       image: "/FMS_HP/images/members/Reishi Kudo.jpg"
     - name: Yota Matsuo
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/MatsuoYota.jpg"
     - name: Taichi Murakawa
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/murakawa.jpg"
 
   B4:
-    - name: Ryosuke Kikuchi
+    - name: Ryusuke Kikuchi
       image: "/FMS_HP/images/members/test.png"
     - name: Ryosuke Kikuchi
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/kikutiryousuke.jpg"
     - name: Hikaru Sonoda
       image: "/FMS_HP/images/members/test.png"
     - name: Shoei Takayama
-      image: "/FMS_HP/images/members/test.png"
+      image: "/FMS_HP/images/members/takayama.jpg"
     - name: Kazumaru Matsunaga
       image: "/FMS_HP/images/members/test.png"
     - name: Natsumi Matsumoto
